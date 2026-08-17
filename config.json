@@ -107,7 +107,7 @@
     "hiring_cafe": [
       { "location": "Denmark" }
     ]
-  }
+  },
   "location_filter": {
     "_comment": "Permissive geographic post-filter for the target commuting region. Keep Copenhagen and the broader Zealand/Sjælland region, plus Malmö/southern Sweden. This is intentionally broader than a strict 1-hour commute filter so potentially attractive roles are not discarded before semantic scoring. Commute distance/time should be handled downstream where possible.",
     "terms": [
