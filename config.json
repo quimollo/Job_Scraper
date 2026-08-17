@@ -86,6 +86,7 @@
     ],
     "indeed": [
       { "location": "Copenhagen, Denmark", "country": "Denmark" },
+      { "location": "Greater Copenhagen, Denmark", "country": "Denmark" },
       { "location": "Denmark", "country": "Denmark" }
     ],
     "glassdoor": [
