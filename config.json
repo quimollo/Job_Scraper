@@ -1,0 +1,183 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Personalized for a post-PhD chromatin biology / computational genomics job search in Denmark. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "Denmark Life Sciences / Computational Biology Job Tracker",
+    "subtitle": "Copenhagen · Greater Copenhagen · Denmark",
+    "emoji": "🧬"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings. Kept deliberately broad here because scoring (scoring_profile.json / triage_agent.py) does the fine-grained semantic filtering — this stage is a coarse net.",
+    "include": [
+      "computational scientist", "computational biolog", "computational genomics",
+      "bioinformatics", "bioinformatician", "bioinformaticians",
+      "genomics", "genomic", "omics scientist", "omics", "multiomics", "multi-omics", "multi-omic",
+      "data scientist", "translational scientist", "translational bioinformatic",
+      "digital biology", "scientific data scientist", "scientific data",
+      "ai scientist biology", "research informatics",
+
+      "scientific project manager", "scientific project coordinator", "r&d project manager",
+      "r&d project coordinator", "research and development project manager",
+      "research project manager", "scientific program manager",
+      "program scientist", "technical project manager", "r&d program manager",
+
+      "life sciences consultant", "healthcare consultant", "life sciences analyst",
+      "life sciences associate", "scientific consultant",
+
+      "patent trainee", "patent analyst", "patent scientist", "technology transfer scientist",
+
+      "chromatin", "epigenomics", "epigenetics", "epigenomic", "gene regulation",
+      "genome organization", "genome organisation", "3d genome", "hi-c", "micro-c",
+      "single-cell", "single cell", "scrna", "rna-seq", "rna seq", "dna repair",
+      "molecular biolog", "aneuploidy", "nucleosome",
+
+      "senior scientist", "research scientist"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped outright before scoring even runs. Kept intentionally minimal: only structurally junior/off-target categories the user never asked to have scored. Seniority/domain-fit calls (director, VP, sales, software engineering, etc.) are handled downstream in scoring_profile.json as down-ranking, per the user's explicit 'down-rank, don't exclude' instruction \u2014 hard-excluding them here would have made those titles unreachable by scoring entirely.",
+    "exclude": [
+      "intern", "internship", "co-op",
+      "student assistant", "studentermedarbejder",
+      "phd student", "phd fellow", "phd position"
+    ]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to each board's search box. Broader than keywords.include on purpose.",
+    "linkedin": [
+      "computational biologist", "computational scientist", "computational genomics",
+      "bioinformatics scientist", "bioinformatics analyst", "bioinformatician",
+      "genomics scientist", "multi-omics scientist", "research informatics",
+      "data scientist life sciences", "translational scientist", "single-cell",
+      "chromatin biology", "scientific project manager", "R&D project manager",
+      "research project manager", "life sciences consultant", "patent scientist",
+      "technology transfer"
+    ],
+    "indeed": [
+      "computational biologist", "computational genomics", "bioinformatics scientist",
+      "bioinformatician", "genomics scientist", "research informatics",
+      "data scientist life sciences", "scientific project manager", "R&D project manager",
+      "life sciences consultant", "chromatin biology"
+    ],
+    "glassdoor": [
+      "computational biologist", "bioinformatics scientist", "genomics scientist",
+      "scientific project manager", "life sciences consultant"
+    ],
+    "ziprecruiter": [],
+    "google_jobs": [
+      "computational biologist", "computational genomics", "bioinformatics scientist",
+      "bioinformatician", "genomics scientist", "research informatics",
+      "scientific project manager", "R&D project manager", "life sciences consultant",
+      "chromatin biology", "single-cell"
+    ],
+    "hiring_cafe": [
+      "computational biologist", "bioinformatics scientist", "genomics scientist",
+      "scientific project manager", "life sciences consultant"
+    ]
+  },
+
+  "_search_terms_note": "ziprecruiter is left empty — JobSpy's ZipRecruiter adapter is US/Canada-only and will not return Danish results; the workflow can stay enabled harmlessly (it will just return nothing) or be disabled in Actions to save a CI run.",
+
+  "locations": {
+    "_comment": "geoId left blank for all Danish entries — LinkedIn resolves location text directly. We'll capture numeric geoIds during live testing (Phase 3) if tighter filtering turns out to be needed. Indeed/Glassdoor/Google Jobs use JobSpy's location+country; 'Denmark' as country is used since JobSpy's Denmark coverage needs to be verified live.",
+    "linkedin": [
+      { "name": "Copenhagen", "location": "Copenhagen, Capital Region of Denmark, Denmark", "geoId": "" },
+      { "name": "Greater Copenhagen", "location": "Greater Copenhagen Area", "geoId": "" },
+      { "name": "Denmark", "location": "Denmark", "geoId": "" }
+    ],
+    "indeed": [
+      { "location": "Copenhagen, Denmark", "country": "Denmark" },
+      { "location": "Denmark", "country": "Denmark" }
+    ],
+    "glassdoor": [
+      { "location": "Copenhagen, Denmark", "country": "Denmark" }
+    ],
+    "ziprecruiter": [],
+    "google_jobs": [
+      { "location": "Copenhagen, Denmark", "country": "Denmark" },
+      { "location": "Denmark", "country": "Denmark" }
+    ],
+    "hiring_cafe": [
+      { "location": "Denmark" }
+    ]
+  },
+
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards without geo-scoping (curated direct-ATS sweep). Sweden included per user preference: only unusually attractive roles there should be prioritized — that judgment happens in scoring, not here.",
+    "terms": [
+      "denmark", "copenhagen", "kobenhavn", "københavn", "frederiksberg", "hovedstaden",
+      "capital region", "greater copenhagen", "ballerup", "lyngby", "gladsaxe", "gentofte",
+      "hillerod", "hillerød", "roskilde", "malov", "malmov", "herlev", "glostrup",
+      "hoje taastrup", "høje-taastrup", "brondby", "brøndby", "vallensbaek", "ishoj",
+      "aarhus", "odense", "aalborg", "esbjerg", "kolding", "vejle", "horsens",
+      "sweden", "malmo", "malmö", "lund", "skane", "skåne"
+    ]
+  },
+
+  "google_jobs": {
+    "_comment": "Leave empty to auto-build queries. Add SERPAPI_API_KEY or OXYLABS credentials as GitHub Actions secrets if the free JobSpy path gets blocked for Danish queries.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "_comment": "Only needed if JobSpy-backed boards get blocked from CI IPs for Danish searches — common failure mode worth watching for during Phase 3 testing.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "HiringCafe's public SEO route currently defaults to US results — Danish coverage from this source may be thin or nonexistent. Flagging for verification in Phase 3; not a blocker for the other sources.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Companies worth a daily priority digest even on a quiet day. High-priority Danish pharma/biotech first, then consulting, then broader Danish biotech discovery targets to expand over time.",
+    "priority": [
+      "Novo Nordisk", "Novonesis", "Novozymes", "Lundbeck", "Gubra", "LEO Pharma",
+      "Bavarian Nordic", "Ferring Pharmaceuticals", "Ferring",
+
+      "Genmab", "Zealand Pharma", "Ascendis Pharma", "Orphazyme", "Evaxion Biotech",
+      "Symphogen", "Vivesto", "Nuevolution", "Santaris Pharma", "Topsoe",
+      "ALK-Abelló", "Chr. Hansen",
+
+      "ZS Associates", "IQVIA", "McKinsey", "BCG", "Boston Consulting Group", "Simon-Kucher"
+    ],
+    "_exclude_comment": "Not excluding pharma/biotech here since that IS the target domain, unlike the upstream example config.",
+    "exclude": []
+  },
+
+  "priority_topics": {
+    "_comment": "Roles touching these get a gold star + dashboard filter. Tuned to the candidate's PhD specialty for immediate visual triage.",
+    "terms": [
+      ["Chromatin / genome organization", "chromatin|genome organi[sz]ation|3d genome|nucleosome"],
+      ["Hi-C / Micro-C", "hi-c|micro-c|mnase"],
+      ["Single-cell", "single.cell|scrna|single cell rna"],
+      ["FACT complex / chromatin remodeling", "\\bfact complex\\b|chromatin remodel"],
+      ["DNA repair", "dna repair"]
+    ]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title.",
+    "terms": [
+      ["Computational/Bioinformatics", "computational|bioinformatic|genomics scien|omics scien|data scien|translational"],
+      ["Scientific Project/Program Mgmt", "project manage|project coordin|program manage|program scien|technical project"],
+      ["Consulting", "consultant|consulting|analyst|associate"],
+      ["Patent/Tech Transfer", "patent|technology transfer"],
+      ["Chromatin/Genomics Research", "chromatin|genome organi|epigenom|gene regulation|single.cell|hi-c|micro-c"],
+      ["Senior/Research Scientist", "senior scientist|research scientist"]
+    ]
+  },
+
+  "notify": {
+    "_comment": "Pushover retained as a secondary optional channel; the primary daily digest will be the new email module built in a later phase. min_fit intentionally high given the 'few excellent jobs, not many mediocre ones' priority.",
+    "min_fit": 80,
+    "weekly_digest": {
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
