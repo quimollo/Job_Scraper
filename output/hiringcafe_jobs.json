@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 18:18 UTC",
-  "total": 48,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 19:18 UTC",
+  "total": 51,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Freenome",
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Emmes Group",
       "title": "Computational Biologist (AI/ML) - Essex Management",
       "location": "Rockville or United States",
@@ -113,6 +99,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -270,6 +270,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Michigan",
       "title": "Bioinformatics Scientist / Computational Biologist",
       "location": "Ann Arbor, Michigan, United States",
@@ -340,6 +354,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Bioinformatics Research Scientist",
+      "location": "Memphis, Tennessee, United States",
+      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
+      "salary": "$104k–$186k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "SUSONITY",
       "title": "Senior Scientist - Oligo Bioinformatics",
       "location": "Billerica, Massachusetts, United States",
@@ -348,20 +376,6 @@
       "date_posted": "2026-08-12T14:23:54.432Z",
       "description": "PhD in chemistry, chemical engineering, or another science or engineering discipline; 3+ years in oligonucleotides; bioinformatics, genomic data analysis, collaboration, organization, and communication skills.",
       "salary": "$113k–$169k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stjude",
-      "title": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology",
-      "location": "Memphis, Tennessee, United States",
-      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Bioinformatics-Research-Scientist---Center-of-Excellence-for-Pediatric-Immuno-Oncology_JR7333-1",
-      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Bioinformatics-Research-Scientist---Center-of-Excellence-for-Pediatric-Immuno-Oncology_JR7333-1",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's in relevant field required (Master's/PhD preferred); 6+ years post-degree bioinformatics experience (Master's 4+ or PhD eligible); strong R/Python, HPC, NGS and data analysis skills.",
-      "salary": "$86k–$155k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -407,6 +421,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Clemson",
+      "title": "Senior Scientist–Lead Scientist for AI-Enabled Bioinformatics and Computational Biology",
+      "location": "Clemson, South Carolina, United States",
+      "url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "direct_url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -674,7 +702,78 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Accenture",
+      "title": "Life Sciences Consultant — Commercial Strategy",
+      "location": "New York City or Milwaukee or Dallas or Columbus or Kirkland or Cincinnati or Cleveland or Oklahoma City or Austin or Albany or Chicago or St. Petersburg or Hartford or Pittsburgh or St. Louis or Miami or Sacramento or Raleigh or Minneapolis or Mountain View or Scottsdale or San Francisco or Morristown or Denver or Boston or Philadelphia or Des Moines or Overland Park or Los Angeles or Charlotte or Walnut Creek or Carmel or Seattle or Houston or Arlington or Atlanta or Redmond or Bentonville or Beaverton or Nashville or Detroit or San Diego",
+      "url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/New-York-One-Manhattan-West-Corp/Life-Sciences-Consultant---Commercial-Strategy_R00347583",
+      "direct_url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/New-York-One-Manhattan-West-Corp/Life-Sciences-Consultant---Commercial-Strategy_R00347583",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "Requires a bachelor's degree, 3+ years each in life sciences commercial experience and strategy consulting or corporate strategy, plus strong research, problem-solving, storytelling, AI/data, PowerPoint, Excel, and client presentation skills.",
+      "salary": "$59k–$188k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Bioinformatics Research Scientist",
+      "location": "Memphis, Tennessee, United States",
+      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
+      "salary": "$104k–$186k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Clemson",
+      "title": "Senior Scientist–Lead Scientist for AI-Enabled Bioinformatics and Computational Biology",
+      "location": "Clemson, South Carolina, United States",
+      "url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "direct_url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Accenture",
+      "title": "Life Sciences Consultant — Commercial Strategy",
+      "location": "New York City or Milwaukee or Dallas or Columbus or Kirkland or Cincinnati or Cleveland or Oklahoma City or Austin or Albany or Chicago or St. Petersburg or Hartford or Pittsburgh or St. Louis or Miami or Sacramento or Raleigh or Minneapolis or Mountain View or Scottsdale or San Francisco or Morristown or Denver or Boston or Philadelphia or Des Moines or Overland Park or Los Angeles or Charlotte or Walnut Creek or Carmel or Seattle or Houston or Arlington or Atlanta or Redmond or Bentonville or Beaverton or Nashville or Detroit or San Diego",
+      "url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/New-York-One-Manhattan-West-Corp/Life-Sciences-Consultant---Commercial-Strategy_R00347583",
+      "direct_url": "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/New-York-One-Manhattan-West-Corp/Life-Sciences-Consultant---Commercial-Strategy_R00347583",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "Requires a bachelor's degree, 3+ years each in life sciences commercial experience and strategy consulting or corporate strategy, plus strong research, problem-solving, storytelling, AI/data, PowerPoint, Excel, and client presentation skills.",
+      "salary": "$59k–$188k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
