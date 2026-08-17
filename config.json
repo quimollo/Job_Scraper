@@ -82,8 +82,7 @@
     "_comment": "geoId left blank for all Danish entries — LinkedIn resolves location text directly. We'll capture numeric geoIds during live testing (Phase 3) if tighter filtering turns out to be needed. Indeed/Glassdoor/Google Jobs use JobSpy's location+country; 'Denmark' as country is used since JobSpy's Denmark coverage needs to be verified live.",
     "linkedin": [
       { "name": "Copenhagen", "location": "Copenhagen, Capital Region of Denmark, Denmark", "geoId": "" },
-      { "name": "Greater Copenhagen", "location": "Greater Copenhagen Area", "geoId": "" },
-      { "name": "Denmark", "location": "Denmark", "geoId": "" }
+      { "name": "Greater Copenhagen", "location": "Greater Copenhagen Area", "geoId": "" }
     ],
     "indeed": [
       { "location": "Copenhagen, Denmark", "country": "Denmark" },
