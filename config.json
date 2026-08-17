@@ -105,7 +105,7 @@
   "location_filter": {
     "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards without geo-scoping (curated direct-ATS sweep). Sweden included per user preference: only unusually attractive roles there should be prioritized — that judgment happens in scoring, not here.",
     "terms": [
-      "copenhagen", "kobenhavn", "københavn", "frederiksberg", "hovedstaden",
+      "denmark", "copenhagen", "kobenhavn", "københavn", "frederiksberg", "hovedstaden",
       "capital region", "greater copenhagen", "ballerup", "lyngby", "gladsaxe", "gentofte",
       "hillerod", "hillerød", "roskilde", "malov", "malmov", "herlev", "glostrup",
       "hoje taastrup", "høje-taastrup", "brondby", "brøndby", "vallensbaek", "ishoj", "hørsholm", "bagsværd"
