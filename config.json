@@ -77,12 +77,19 @@
   },
 
   "_search_terms_note": "ziprecruiter is left empty — JobSpy's ZipRecruiter adapter is US/Canada-only and will not return Danish results; the workflow can stay enabled harmlessly (it will just return nothing) or be disabled in Actions to save a CI run.",
-
   "locations": {
-    "_comment": "geoId left blank for all Danish entries — LinkedIn resolves location text directly. We'll capture numeric geoIds during live testing (Phase 3) if tighter filtering turns out to be needed. Indeed/Glassdoor/Google Jobs use JobSpy's location+country; 'Denmark' as country is used since JobSpy's Denmark coverage needs to be verified live.",
+    "_comment": "LinkedIn searches are intentionally restricted to Copenhagen / Greater Copenhagen rather than Denmark-wide. The goal is a practical ~1-hour commute from Copenhagen. Explicit LinkedIn geoIds are used instead of free-text-only location searches.",
     "linkedin": [
-      { "name": "Copenhagen", "location": "Copenhagen, Capital Region of Denmark, Denmark", "geoId": "" },
-      { "name": "Greater Copenhagen", "location": "Greater Copenhagen Area", "geoId": "" }
+      {
+        "name": "Copenhagen Area",
+        "location": "Copenhagen, Capital Region of Denmark, Denmark",
+        "geoId": "102194656"
+      },
+      {
+        "name": "Copenhagen Municipality",
+        "location": "Copenhagen, Denmark",
+        "geoId": "106743989"
+      }
     ],
     "indeed": [
       { "location": "Copenhagen, Denmark", "country": "Denmark" },
@@ -100,7 +107,7 @@
     "hiring_cafe": [
       { "location": "Denmark" }
     ]
-  },
+  }
 
   "location_filter": {
     "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards without geo-scoping (curated direct-ATS sweep). Sweden included per user preference: only unusually attractive roles there should be prioritized — that judgment happens in scoring, not here.",
