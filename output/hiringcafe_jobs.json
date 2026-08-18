@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18 03:32 UTC",
+  "scraped_at": "2026-08-18 04:22 UTC",
   "total": 52,
   "new_count": 0,
   "jobs": [
@@ -354,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "MyOme",
-      "title": "Bioinformatics Scientist/Biostatistician Contractor ",
-      "location": "Menlo Park, California, United States",
-      "url": "https://myome.com/about-us/careers?gh_jid=4322409009",
-      "direct_url": "https://myome.com/about-us/careers?gh_jid=4322409009",
-      "date_posted": "2026-07-21T16:38:36.000Z",
-      "description": "Master's (PhD preferred) in quantitative field, 3+ years analyzing NGS data, coding in R or Python, experience with bcftools/samtools/bedtools/plink, cloud (AWS/GCP), Linux/shell, and genomic databases.",
-      "salary": "$156k–$291k/yr",
-      "job_type": "Contract, Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Jude Children's Research Hospital",
       "title": "Senior Bioinformatics Research Scientist",
       "location": "Memphis, Tennessee, United States",
@@ -379,6 +365,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "MyOme",
+      "title": "Bioinformatics Scientist/Biostatistician Contractor ",
+      "location": "Menlo Park, California, United States",
+      "url": "https://myome.com/about-us/careers?gh_jid=4322409009",
+      "direct_url": "https://myome.com/about-us/careers?gh_jid=4322409009",
+      "date_posted": "2026-07-21T16:38:36.000Z",
+      "description": "Master's (PhD preferred) in quantitative field, 3+ years analyzing NGS data, coding in R or Python, experience with bcftools/samtools/bedtools/plink, cloud (AWS/GCP), Linux/shell, and genomic databases.",
+      "salary": "$156k–$291k/yr",
+      "job_type": "Contract, Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
