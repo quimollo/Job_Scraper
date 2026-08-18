@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18 04:22 UTC",
-  "total": 52,
+  "scraped_at": "2026-08-18 17:15 UTC",
+  "total": 51,
   "new_count": 0,
   "jobs": [
     {
@@ -270,20 +270,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumina",
-      "title": "Staff Bioinformatics Scientist",
-      "location": "San Diego or United States",
-      "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
-      "direct_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
-      "salary": "$156k–$233k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Foundation Medicine Career Site",
       "title": "Bioinformatics Scientist II",
       "location": "Boston, Massachusetts, United States",
@@ -292,6 +278,20 @@
       "date_posted": "2026-08-17T13:32:00.000Z",
       "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
       "salary": "$130k–$162k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumina",
+      "title": "Staff Bioinformatics Scientist",
+      "location": "San Diego or United States",
+      "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
+      "direct_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
+      "salary": "$156k–$233k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -614,20 +614,6 @@
       "date_posted": "2026-08-10T07:00:00.000Z",
       "description": "PhD in biological sciences; expertise in multi-omic library generation, spatial transcriptomics, single-cell RNA/ATAC analysis, ASD models, genome engineering, stem-cell methods, and research mentoring.",
       "salary": "$79k–$92k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Senior Scientist",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Baltimore/Senior-Scientist_42972-1",
-      "direct_url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Baltimore/Senior-Scientist_42972-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in neuroscience, biology, or related field; 8+ years in genomics, genetics, molecular biology, and transcriptomics; single-cell and spatial transcriptomics expertise; public trust eligibility.",
-      "salary": "$130k–$216k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
