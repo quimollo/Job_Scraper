@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 23:10 UTC",
+  "scraped_at": "2026-08-18 00:25 UTC",
   "total": 52,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Freenome",
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Emmes Group",
       "title": "Computational Biologist (AI/ML) - Essex Management",
       "location": "Rockville or United States",
@@ -113,6 +99,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -354,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "St. Jude Children's Research Hospital",
-      "title": "Senior Bioinformatics Research Scientist",
-      "location": "Memphis, Tennessee, United States",
-      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
-      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
-      "salary": "$104k–$186k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MyOme",
       "title": "Bioinformatics Scientist/Biostatistician Contractor ",
       "location": "Menlo Park, California, United States",
@@ -379,6 +365,20 @@
       "job_type": "Contract, Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Bioinformatics Research Scientist",
+      "location": "Memphis, Tennessee, United States",
+      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
+      "salary": "$104k–$186k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -732,20 +732,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Phoenix Children's",
-      "title": "Clinical Genomics Scientist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
-      "direct_url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
-      "date_posted": "2026-08-17T20:23:58.895Z",
-      "description": "PhD or master's in genomics, molecular biology, or related field; 3+ years in clinical genomics or molecular diagnostics; variant interpretation, ACMG/AMP, clinical reporting, bioinformatics, and tertiary analysis expertise.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
