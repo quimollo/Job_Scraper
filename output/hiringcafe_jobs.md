@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-08-18 20:08 UTC*
+*Last updated: 2026-08-18 21:11 UTC*
 
-**1 new role(s)** since last run · 51 total in last 30d
+**1 new role(s)** since last run · 52 total in last 30d
 
-### [Associate Computational Biologist, Arthanari Lab](https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1) — Dana-Farber Cancer Institute
-- 📍 **Location:** Boston or Boston
-- 💰 **Salary:** $60k–$67k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+### [Bioinformatics Scientist](https://jobs.micro1.ai/post/3f30d455-3bb2-4af3-95ba-0579311eb915) — micro1
+- 📍 **Location:** United States
+- 💰 **Salary:** $187k–$250k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Contract
+- 🕒 **Posted:** 2026-07-28T02:36:35.000Z
