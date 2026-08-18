@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18 02:07 UTC",
+  "scraped_at": "2026-08-18 03:32 UTC",
   "total": 52,
   "new_count": 0,
   "jobs": [
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Emmes Group",
-      "title": "Computational Biologist (AI/ML) - Essex Management",
-      "location": "Rockville or United States",
-      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "date_posted": "2026-08-03T21:07:09.000Z",
-      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lilly",
       "title": "Computational Biologist - Quantitative Methods & Target Discovery",
       "location": "Boston or Indianapolis",
@@ -113,6 +99,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Emmes Group",
+      "title": "Computational Biologist (AI/ML) - Essex Management",
+      "location": "Rockville or United States",
+      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "date_posted": "2026-08-03T21:07:09.000Z",
+      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
