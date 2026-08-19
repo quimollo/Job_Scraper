@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 00:25 UTC",
-  "total": 50,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 02:09 UTC",
+  "total": 51,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Freenome",
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Emmes Group",
       "title": "Computational Biologist (AI/ML) - Essex Management",
       "location": "Rockville or United States",
@@ -113,6 +99,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Foundation Medicine Career Site",
-      "title": "Bioinformatics Scientist II",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "date_posted": "2026-08-17T13:32:00.000Z",
-      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
-      "salary": "$130k–$162k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumina",
       "title": "Staff Bioinformatics Scientist",
       "location": "San Diego or United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
       "salary": "$156k–$233k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -340,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "St. Jude Children's Research Hospital",
-      "title": "Senior Bioinformatics Research Scientist",
-      "location": "Memphis, Tennessee, United States",
-      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
-      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
-      "salary": "$104k–$186k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MyOme",
       "title": "Bioinformatics Scientist/Biostatistician Contractor ",
       "location": "Menlo Park, California, United States",
@@ -365,6 +351,20 @@
       "job_type": "Contract, Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Bioinformatics Research Scientist",
+      "location": "Memphis, Tennessee, United States",
+      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist_JR5526-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree plus 7+ years, master's plus 5+ years, or PhD plus 2+ years of relevant experience; programming, scripting, and statistical package expertise required; R preferred.",
+      "salary": "$104k–$186k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -648,6 +648,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Clinical Genomic Scientist I - R&D Innovation",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
+      "salary": "$84k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Costello Medical",
       "title": "Scientific Project Coordinator",
       "location": "Boston, Massachusetts, United States",
@@ -704,5 +718,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Clinical Genomic Scientist I - R&D Innovation",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
+      "salary": "$84k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
