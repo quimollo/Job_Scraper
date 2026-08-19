@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 02:09 UTC",
+  "scraped_at": "2026-08-19 03:35 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Freenome",
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Emmes Group",
-      "title": "Computational Biologist (AI/ML) - Essex Management",
-      "location": "Rockville or United States",
-      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "date_posted": "2026-08-03T21:07:09.000Z",
-      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lilly",
       "title": "Computational Biologist - Quantitative Methods & Target Discovery",
       "location": "Boston or Indianapolis",
@@ -113,6 +99,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Emmes Group",
+      "title": "Computational Biologist (AI/ML) - Essex Management",
+      "location": "Rockville or United States",
+      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "date_posted": "2026-08-03T21:07:09.000Z",
+      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumina",
-      "title": "Staff Bioinformatics Scientist",
-      "location": "San Diego or United States",
-      "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
-      "direct_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
-      "salary": "$156k–$233k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Foundation Medicine Career Site",
       "title": "Bioinformatics Scientist II",
       "location": "Boston, Massachusetts, United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-08-17T13:32:00.000Z",
       "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
       "salary": "$130k–$162k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumina",
+      "title": "Staff Bioinformatics Scientist",
+      "location": "San Diego or United States",
+      "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
+      "direct_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
+      "salary": "$156k–$233k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -718,20 +718,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Children's Hospital of Philadelphia",
-      "title": "Clinical Genomic Scientist I - R&D Innovation",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
-      "salary": "$84k–$107k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
