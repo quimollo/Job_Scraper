@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18 23:10 UTC",
-  "total": 52,
+  "scraped_at": "2026-08-19 00:25 UTC",
+  "total": 50,
   "new_count": 0,
   "jobs": [
     {
@@ -225,34 +225,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Celcuity",
-      "title": "Bioinformatics Scientist",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://celcuity.bamboohr.com/careers/132",
-      "direct_url": "https://celcuity.bamboohr.com/careers/132",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Ph.D or equivalent experience in biological/biochemical sciences; experience with large omics datasets, R/Python coding, reproducible pipelines, and strong cell biology knowledge.",
-      "salary": "$110k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Nationwidechildrens",
-      "title": "IGM Bioinformatics Scientist II",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/nchcareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Scientist-II_R-27006-1",
-      "direct_url": "https://nationwidechildrens.wd5.myworkdayjobs.com/nchcareers/job/Main-Campus-Columbus-OH/IGM-Bioinformatics-Scientist-II_R-27006-1",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "PhD required in a relevant field, post-doc or 3 years bioinformatics experience in research or clinical settings, strong computational and biological skills, communication, statistics and genomics experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
