@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 04:23 UTC",
-  "total": 51,
-  "new_count": 1,
+  "scraped_at": "2026-08-19 17:14 UTC",
+  "total": 50,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Freenome",
@@ -75,13 +75,27 @@
     },
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -99,20 +113,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -155,20 +155,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "micro1",
-      "title": "Bioinformatics Scientist",
-      "location": "United States",
-      "url": "https://jobs.micro1.ai/post/3f30d455-3bb2-4af3-95ba-0579311eb915",
-      "direct_url": "https://jobs.micro1.ai/post/3f30d455-3bb2-4af3-95ba-0579311eb915",
-      "date_posted": "2026-07-28T02:36:35.000Z",
-      "description": "Apply bioinformatics and medicinal chemistry expertise to curate, annotate, and evaluate datasets for AI model training; familiarity with Python/R/RDKit/KNIME and handling large-scale omics/cheminformatics data preferred.",
-      "salary": "$187k–$250k/yr",
-      "job_type": "Contract",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -376,20 +362,6 @@
       "date_posted": "2026-08-12T14:23:54.432Z",
       "description": "PhD in chemistry, chemical engineering, or another science or engineering discipline; 3+ years in oligonucleotides; bioinformatics, genomic data analysis, collaboration, organization, and communication skills.",
       "salary": "$113k–$169k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cincinnatichildrens",
-      "title": "Bioinformatics Analyst",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Bioinformatics-Analyst_JR223796",
-      "direct_url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Burnet-Campus/Bioinformatics-Analyst_JR223796",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field, 0+ years relevant experience; skills in curating and analyzing genomic/clinical/imaging data, running pipelines, and collaborating with clinicians and scientists.",
-      "salary": "$61k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,6 +676,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Argenta",
+      "title": "Technical Project Manager",
+      "location": "Shawnee, Kansas, United States",
+      "url": "https://teamargenta.bamboohr.com/careers/658",
+      "direct_url": "https://teamargenta.bamboohr.com/careers/658",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "Bachelor's in relevant scientific/engineering field,5+ years project/technical experience in pharma/biotech manufacturing with 3+ years managing sterile tech transfers; portfolio, financial, and risk management; aseptic manufacturing knowledge; Microsoft Office and Smartsheet proficiency.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Accenture",
       "title": "Life Sciences Consultant — Commercial Strategy",
       "location": "New York City or Milwaukee or Dallas or Columbus or Kirkland or Cincinnati or Cleveland or Oklahoma City or Austin or Albany or Chicago or St. Petersburg or Hartford or Pittsburgh or St. Louis or Miami or Sacramento or Raleigh or Minneapolis or Mountain View or Scottsdale or San Francisco or Morristown or Denver or Boston or Philadelphia or Des Moines or Overland Park or Los Angeles or Charlotte or Walnut Creek or Carmel or Seattle or Houston or Arlington or Atlanta or Redmond or Bentonville or Beaverton or Nashville or Detroit or San Diego",
@@ -721,16 +707,30 @@
   "new_jobs": [
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Argenta",
+      "title": "Technical Project Manager",
+      "location": "Shawnee, Kansas, United States",
+      "url": "https://teamargenta.bamboohr.com/careers/658",
+      "direct_url": "https://teamargenta.bamboohr.com/careers/658",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "Bachelor's in relevant scientific/engineering field,5+ years project/technical experience in pharma/biotech manufacturing with 3+ years managing sterile tech transfers; portfolio, financial, and risk management; aseptic manufacturing knowledge; Microsoft Office and Smartsheet proficiency.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
