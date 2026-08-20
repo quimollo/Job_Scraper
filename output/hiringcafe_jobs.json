@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 17:17 UTC",
+  "scraped_at": "2026-08-20 18:18 UTC",
   "total": 50,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Foundation Medicine Career Site",
-      "title": "Bioinformatics Scientist II",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "date_posted": "2026-08-17T13:32:00.000Z",
-      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
-      "salary": "$130k–$162k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumina",
       "title": "Staff Bioinformatics Scientist",
       "location": "San Diego or United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
       "salary": "$156k–$233k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -704,48 +704,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist (Polizzi Lab)",
-      "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
-      "salary": "$60k–$67k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Moffitt",
-      "title": "Research Scientist III",
-      "location": "Tampa, Florida, United States",
-      "url": "https://moffitt.wd108.myworkdayjobs.com/moffitt/job/Moffitt-Research-Center/Research-Scientist-III_R-3498",
-      "direct_url": "https://moffitt.wd108.myworkdayjobs.com/moffitt/job/Moffitt-Research-Center/Research-Scientist-III_R-3498",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Ph.D., MD, or DO in life science, genomics, pathology, or related field; 6+ years equivalent research experience, including at least 2 years at Research Scientist II level; advanced wet-lab and data analysis expertise.",
-      "salary": "$102k–$168k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Accenture",
-      "title": "Life Sciences Consultant — Commercial Strategy",
-      "location": "Albany or Arlington or Atlanta or Austin or Beaverton or Bentonville or Boston or Carmel or Charlotte or Chicago or Cincinnati or Cleveland or Columbus or Culver City or Denver or Des Moines or Detroit or Hartford or Houston or Irving or Kirkland or Miami or Milwaukee or Minneapolis or Morristown or Mountain View or Nashville or New York City or Oklahoma City or Overland Park or Philadelphia or Pittsburgh or Raleigh or Redmond or Sacramento or San Diego or San Francisco or Scottsdale or Seattle or St. Louis or St. Petersburg or Walnut Creek or United States",
-      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00347583_en&title=Life+Sciences+Consultant+%E2%80%94+Commercial+Strategy",
-      "direct_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00347583_en&title=Life+Sciences+Consultant+%E2%80%94+Commercial+Strategy",
-      "date_posted": "2026-08-13T22:51:19.438Z",
-      "description": "Requires 3+ years each in life sciences commercial experience and strategy consulting or equivalent corporate strategy, a bachelor's degree, strong problem-solving, communication, PowerPoint, Excel, storytelling, and client presentation skills.",
-      "salary": "$59k–$188k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
