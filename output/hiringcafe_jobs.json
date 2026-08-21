@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 23:13 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 00:28 UTC",
+  "total": 50,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -89,13 +89,27 @@
     },
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -113,20 +127,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Foundation Medicine Career Site",
-      "title": "Bioinformatics Scientist II",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "date_posted": "2026-08-17T13:32:00.000Z",
-      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
-      "salary": "$130k–$162k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumina",
       "title": "Staff Bioinformatics Scientist",
       "location": "San Diego or United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
       "salary": "$156k–$233k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -391,6 +391,20 @@
       "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Phoenix Children's",
+      "title": "Clinical Genomics Scientist",
+      "location": "Phoenix, Arizona, United States",
+      "url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
+      "direct_url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
+      "date_posted": "2026-08-17T20:23:58.895Z",
+      "description": "PhD or master's in genomics, molecular biology, or related field; 3+ years in clinical genomics or molecular diagnostics; variant interpretation, ACMG/AMP, clinical reporting, bioinformatics, and tertiary analysis expertise.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -592,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Abbott",
-      "title": "Sr. Research Scientist",
-      "location": "La Jolla, California, United States",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--La-Jolla--Torrey-Pines-Science-Park/Sr-Research-Scientist_31158153-1",
-      "direct_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--La-Jolla--Torrey-Pines-Science-Park/Sr-Research-Scientist_31158153-1",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "PhD in a relevant life science or equivalent experience, 5+ years in biology or chemistry, 3+ years in regulated healthcare industries, and expertise in molecular biology, biochemistry, NGS, genomics, and quality systems.",
-      "salary": "$114k–$228k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Costello Medical",
       "title": "Scientific Project Coordinator",
       "location": "Boston, Massachusetts, United States",
@@ -688,7 +688,64 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Value Engineer - Life Sciences Consultant ",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7919165003?gh_jid=7919165003",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7919165003?gh_jid=7919165003",
+      "date_posted": "2026-08-20T19:16:54.000Z",
+      "description": "Requires 5+ years in value engineering, consulting, customer success, or pre-sales; enterprise IT and AI fluency; transformation program and stakeholder management expertise; Life Sciences domain knowledge; and a relevant technical or business degree.",
+      "salary": "$131k–$154k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dana-Farber Cancer Institute",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
+      "location": "Boston or Boston",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
+      "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Phoenix Children's",
+      "title": "Clinical Genomics Scientist",
+      "location": "Phoenix, Arizona, United States",
+      "url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
+      "direct_url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
+      "date_posted": "2026-08-17T20:23:58.895Z",
+      "description": "PhD or master's in genomics, molecular biology, or related field; 3+ years in clinical genomics or molecular diagnostics; variant interpretation, ACMG/AMP, clinical reporting, bioinformatics, and tertiary analysis expertise.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Value Engineer - Life Sciences Consultant ",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7919165003?gh_jid=7919165003",
+      "direct_url": "https://job-boards.greenhouse.io/celonis/jobs/7919165003?gh_jid=7919165003",
+      "date_posted": "2026-08-20T19:16:54.000Z",
+      "description": "Requires 5+ years in value engineering, consulting, customer success, or pre-sales; enterprise IT and AI fluency; transformation program and stakeholder management expertise; Life Sciences domain knowledge; and a relevant technical or business degree.",
+      "salary": "$131k–$154k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
