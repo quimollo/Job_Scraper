@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 17:17 UTC",
-  "total": 51,
-  "new_count": 2,
+  "scraped_at": "2026-08-21 18:17 UTC",
+  "total": 50,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -197,20 +197,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "ChromoLogic",
-      "title": "Senior Scientist, Bioinformatics",
-      "location": "Monrovia, California, United States",
-      "url": "https://chromologic.breezy.hr/p/ef81def34253-senior-scientist-bioinformatics",
-      "direct_url": "https://chromologic.breezy.hr/p/ef81def34253-senior-scientist-bioinformatics",
-      "date_posted": "2026-07-22T17:51:12.259Z",
-      "description": "Ph.D. in quantitative discipline, minimum 2 years postdoctoral/industry experience, expertise in NGS data analysis, bioinformatics pipelines, Python or R, and machine learning/Bayesian methods.",
-      "salary": "$90k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -494,20 +480,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Health Alliance",
-      "title": "Molecular Scientist, Genomics",
-      "location": "Henderson, North Carolina, United States",
-      "url": "https://recruiting.ultipro.com/mak1000mako/JobBoard/5e60804a-5b37-4879-9aac-da0a90c19a41/OpportunityDetail?opportunityId=dc6124f8-1f05-4979-a4dd-ec43f78a619c",
-      "direct_url": "https://recruiting.ultipro.com/mak1000mako/JobBoard/5e60804a-5b37-4879-9aac-da0a90c19a41/OpportunityDetail?opportunityId=dc6124f8-1f05-4979-a4dd-ec43f78a619c",
-      "date_posted": "2026-07-22T17:41:03.322Z",
-      "description": "Bachelor's degree in biology/chemistry/biochemistry/genetics, knowledge of DNA extraction and qPCR, lab safety, CLIA/CAP awareness, ability to handle biohazardous materials, and strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "UTMB Health",
       "title": "Research Scientist II, Single Cell Genomics Service Center",
       "location": "Galveston, Texas, United States",
@@ -662,6 +634,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "UT MD Anderson Cancer Center",
+      "title": "Scientific Program Director Genomic Medicine",
+      "location": "Houston or United States",
+      "url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
+      "direct_url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
+      "date_posted": "2026-08-21T17:20:01.790Z",
+      "description": "Bachelor's degree in business or healthcare administration or related field and five years of project or program management experience; people management and complex initiative leadership preferred.",
+      "salary": "$92k–$138k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Argenta",
       "title": "Technical Project Manager",
       "location": "Shawnee, Kansas, United States",
@@ -720,29 +706,15 @@
   ],
   "new_jobs": [
     {
-      "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
-      "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
-      "salary": "$60k–$67k/yr",
+      "company": "UT MD Anderson Cancer Center",
+      "title": "Scientific Program Director Genomic Medicine",
+      "location": "Houston or United States",
+      "url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
+      "direct_url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
+      "date_posted": "2026-08-21T17:20:01.790Z",
+      "description": "Bachelor's degree in business or healthcare administration or related field and five years of project or program management experience; people management and complex initiative leadership preferred.",
+      "salary": "$92k–$138k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of Michigan",
-      "title": "Bioinformatics Scientist / Computational Biologist",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://careers.umich.edu/job_detail/apply/281676",
-      "direct_url": "https://careers.umich.edu/job_detail/apply/281676",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Ph.D. in a related field with 2–5 years of experience, or substantial experience with a master's or bachelor's degree; requires sequencing analysis, Python or R, Linux/Unix, workflow development, and research collaboration.",
-      "salary": "$89k–$110k/yr",
-      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
