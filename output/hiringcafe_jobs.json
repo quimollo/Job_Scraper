@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21 18:17 UTC",
+  "scraped_at": "2026-08-21 19:17 UTC",
   "total": 50,
   "new_count": 1,
   "jobs": [
@@ -89,12 +89,12 @@
     },
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -706,17 +706,17 @@
   ],
   "new_jobs": [
     {
-      "company": "UT MD Anderson Cancer Center",
-      "title": "Scientific Program Director Genomic Medicine",
-      "location": "Houston or United States",
-      "url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
-      "direct_url": "https://mdanderson.referrals.selectminds.com/jobs/scientific-program-director-genomic-medicine-76996",
-      "date_posted": "2026-08-21T17:20:01.790Z",
-      "description": "Bachelor's degree in business or healthcare administration or related field and five years of project or program management experience; people management and complex initiative leadership preferred.",
-      "salary": "$92k–$138k/yr",
+      "company": "Dana-Farber Cancer Institute",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
+      "location": "Boston or Boston",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
+      "salary": "$60k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
