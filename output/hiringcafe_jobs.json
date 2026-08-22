@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 18:09 UTC",
-  "total": 51,
-  "new_count": 0,
+  "scraped_at": "2026-08-22 19:13 UTC",
+  "total": 50,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -91,11 +91,25 @@
       "company": "Dana-Farber Cancer Institute",
       "title": "Associate Computational Biologist, Arthanari Lab",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
       "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
       "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -113,20 +127,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -690,20 +690,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Accenture",
-      "title": "Life Sciences Consultant — Commercial Strategy",
-      "location": "Albany or Arlington or Atlanta or Austin or Beaverton or Bentonville or Boston or Carmel or Charlotte or Chicago or Cincinnati or Cleveland or Columbus or Culver City or Denver or Des Moines or Detroit or Hartford or Houston or Irving or Kirkland or Miami or Milwaukee or Minneapolis or Morristown or Mountain View or Nashville or New York City or Oklahoma City or Overland Park or Philadelphia or Pittsburgh or Raleigh or Redmond or Sacramento or San Diego or San Francisco or Scottsdale or Seattle or St. Louis or St. Petersburg or Walnut Creek or United States",
-      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00347583_en&title=Life+Sciences+Consultant+%E2%80%94+Commercial+Strategy",
-      "direct_url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00347583_en&title=Life+Sciences+Consultant+%E2%80%94+Commercial+Strategy",
-      "date_posted": "2026-08-13T22:51:19.438Z",
-      "description": "Requires 3+ years each in life sciences commercial experience and strategy consulting or equivalent corporate strategy, a bachelor's degree, strong problem-solving, communication, PowerPoint, Excel, storytelling, and client presentation skills.",
-      "salary": "$59k–$188k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Celonis",
       "title": "Senior Value Engineer - Life Sciences Consultant ",
       "location": "New York City, New York, United States",
@@ -718,5 +704,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dana-Farber Cancer Institute",
+      "title": "Associate Computational Biologist, Arthanari Lab",
+      "location": "Boston or Boston",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
+      "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
