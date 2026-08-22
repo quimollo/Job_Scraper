@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 04:19 UTC",
-  "total": 52,
-  "new_count": 2,
+  "scraped_at": "2026-08-22 17:09 UTC",
+  "total": 51,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -91,25 +91,11 @@
       "company": "Dana-Farber Cancer Institute",
       "title": "Associate Computational Biologist, Arthanari Lab",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
       "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
       "salary": "$60k–$67k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -127,6 +113,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -405,20 +405,6 @@
       "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Phoenix Children's",
-      "title": "Clinical Genomics Scientist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
-      "direct_url": "https://careers.phoenixchildrens.com/Positions/Posting/1027389",
-      "date_posted": "2026-08-17T20:23:58.895Z",
-      "description": "PhD or master's in genomics, molecular biology, or related field; 3+ years in clinical genomics or molecular diagnostics; variant interpretation, ACMG/AMP, clinical reporting, bioinformatics, and tertiary analysis expertise.",
-      "salary": "",
-      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -737,28 +723,14 @@
       "company": "Dana-Farber Cancer Institute",
       "title": "Associate Computational Biologist, Arthanari Lab",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
       "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
       "salary": "$60k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Osmind",
-      "title": "Life Sciences Associate",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.lever.co/Osmind/3ef9db7c-b947-487a-8a0c-aad6dc302f30",
-      "direct_url": "https://jobs.lever.co/Osmind/3ef9db7c-b947-487a-8a0c-aad6dc302f30",
-      "date_posted": "2026-08-21T21:52:06.704Z",
-      "description": "Requires 2+ years in life sciences consulting, commercial analytics, market research, or biotech operations; biopharma commercial exposure; advanced Excel and survey design experience; strong analytical and client-facing skills.",
-      "salary": "$110k–$125k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
