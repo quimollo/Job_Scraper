@@ -1,11 +1,10 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-08-21 23:11 UTC*
+*Last updated: 2026-08-22 00:25 UTC*
 
-**1 new role(s)** since last run · 50 total in last 30d
+**1 new role(s)** since last run · 51 total in last 30d
 
-### [Associate Computational Biologist (Polizzi Lab)](https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1) — Dana-Farber Cancer Institute
-- 📍 **Location:** Boston or Boston
-- 💰 **Salary:** $60k–$67k/yr
-- **Work mode:** On-site
+### [Data Scientist/Computational Biologist](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014766326-data-scientist-computational-biologist) — Harvard University
+- 📍 **Location:** Boston, Massachusetts, United States
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-11T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-21T18:50:33.659Z
