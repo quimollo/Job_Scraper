@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23 21:09 UTC",
+  "scraped_at": "2026-08-23 22:08 UTC",
   "total": 51,
   "new_count": 1,
   "jobs": [
@@ -89,27 +89,13 @@
     },
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -127,6 +113,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -721,12 +721,12 @@
   "new_jobs": [
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist, Arthanari Lab",
+      "title": "Associate Computational Biologist (Polizzi Lab)",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
       "salary": "$60k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
