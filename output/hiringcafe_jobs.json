@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24 02:14 UTC",
-  "total": 51,
+  "scraped_at": "2026-08-24 03:41 UTC",
+  "total": 50,
   "new_count": 0,
   "jobs": [
     {
@@ -279,20 +279,6 @@
       "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
       "salary": "$130k–$162k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of Michigan",
-      "title": "Bioinformatics Scientist / Computational Biologist",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://careers.umich.edu/job_detail/apply/281676",
-      "direct_url": "https://careers.umich.edu/job_detail/apply/281676",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Ph.D. in a related field with 2–5 years of experience, or substantial experience with a master's or bachelor's degree; requires sequencing analysis, Python or R, Linux/Unix, workflow development, and research collaboration.",
-      "salary": "$89k–$110k/yr",
-      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
