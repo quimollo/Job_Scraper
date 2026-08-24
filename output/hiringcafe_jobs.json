@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23 23:08 UTC",
+  "scraped_at": "2026-08-24 00:27 UTC",
   "total": 51,
   "new_count": 0,
   "jobs": [
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Foundation Medicine Career Site",
-      "title": "Bioinformatics Scientist II",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
-      "date_posted": "2026-08-17T13:32:00.000Z",
-      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
-      "salary": "$130k–$162k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumina",
       "title": "Staff Bioinformatics Scientist",
       "location": "San Diego or United States",
@@ -278,6 +264,20 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "Experience in signal processing and data analysis, strong programming (C++ preferred; Java/C# acceptable), Python and Git experience, multi-threading, master's or PhD in a relevant field, minimum 6 years related experience with a master's.",
       "salary": "$156k–$233k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Foundation Medicine Career Site",
+      "title": "Bioinformatics Scientist II",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "direct_url": "https://hcyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/103869",
+      "date_posted": "2026-08-17T13:32:00.000Z",
+      "description": "Master’s degree in a relevant scientific discipline, 2+ years of relevant experience, and Python or R scripting proficiency; genomic analysis, cancer research, NGS, and clinical biomarker experience preferred.",
+      "salary": "$130k–$162k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
