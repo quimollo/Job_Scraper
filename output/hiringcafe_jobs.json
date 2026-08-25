@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 21:14 UTC",
-  "total": 49,
-  "new_count": 1,
+  "scraped_at": "2026-08-25 22:12 UTC",
+  "total": 51,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -382,6 +382,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Clemson",
+      "title": "Senior Scientist–Lead Scientist for AI-Enabled Bioinformatics and Computational Biology",
+      "location": "Clemson, South Carolina, United States",
+      "url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "direct_url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Baylor Genetics",
       "title": "Clinical Genomics Scientist- Report Writing",
       "location": "United States",
@@ -522,6 +536,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Syngenta Group",
+      "title": "Senior Scientist I",
+      "location": "Durham, North Carolina, United States",
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
+      "direct_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
+      "date_posted": "2026-08-25T14:58:15.047Z",
+      "description": "Ph.D. in plant pathology, nematology, genetics, genomics, or related field; 4+ years of crop resistance research focused on plant-parasitic nematodes; expertise in experiments, assays, phenotyping, and data analysis.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "University of Alabama in Huntsville",
       "title": "Research Scientist I, Step 1",
       "location": "Alabama, United States",
@@ -550,20 +578,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Children's Hospital of Philadelphia",
-      "title": "Clinical Genomic Scientist I - R&D Innovation",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
-      "salary": "$84k–$107k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Costello Medical",
       "title": "Scientific Project Coordinator",
       "location": "Boston, Massachusetts, United States",
@@ -589,6 +603,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Axle",
+      "title": "Scientific Program Manager ",
+      "location": "Rockville, Maryland, United States",
+      "url": "https://job-boards.greenhouse.io/axle/jobs/5221328007",
+      "direct_url": "https://job-boards.greenhouse.io/axle/jobs/5221328007",
+      "date_posted": "2026-08-25T15:44:04.000Z",
+      "description": "Master's degree in molecular biology, microbiology, biomedical engineering, or related field; 2+ years project management and 4 years biology experience; NIH IMPAC and Microsoft Office proficiency; strong analytical and communication skills.",
+      "salary": "$130k–$145k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -692,17 +720,45 @@
   ],
   "new_jobs": [
     {
-      "company": "Children's Hospital of Philadelphia",
-      "title": "Clinical Genomic Scientist I - R&D Innovation",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
-      "salary": "$84k–$107k/yr",
+      "company": "Clemson",
+      "title": "Senior Scientist–Lead Scientist for AI-Enabled Bioinformatics and Computational Biology",
+      "location": "Clemson, South Carolina, United States",
+      "url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "direct_url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Syngenta Group",
+      "title": "Senior Scientist I",
+      "location": "Durham, North Carolina, United States",
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
+      "direct_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
+      "date_posted": "2026-08-25T14:58:15.047Z",
+      "description": "Ph.D. in plant pathology, nematology, genetics, genomics, or related field; 4+ years of crop resistance research focused on plant-parasitic nematodes; expertise in experiments, assays, phenotyping, and data analysis.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Axle",
+      "title": "Scientific Program Manager ",
+      "location": "Rockville, Maryland, United States",
+      "url": "https://job-boards.greenhouse.io/axle/jobs/5221328007",
+      "direct_url": "https://job-boards.greenhouse.io/axle/jobs/5221328007",
+      "date_posted": "2026-08-25T15:44:04.000Z",
+      "description": "Master's degree in molecular biology, microbiology, biomedical engineering, or related field; 2+ years project management and 4 years biology experience; NIH IMPAC and Microsoft Office proficiency; strong analytical and communication skills.",
+      "salary": "$130k–$145k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
