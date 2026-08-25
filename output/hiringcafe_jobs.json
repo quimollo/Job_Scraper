@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 02:10 UTC",
+  "scraped_at": "2026-08-25 03:37 UTC",
   "total": 49,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -690,20 +690,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of Michigan",
-      "title": "Bioinformatics Scientist / Computational Biologist",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://careers.umich.edu/job_detail/apply/281676",
-      "direct_url": "https://careers.umich.edu/job_detail/apply/281676",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Ph.D. in a related field with 2–5 years of experience, or substantial experience with a master's or bachelor's degree; requires sequencing analysis, Python or R, Linux/Unix, workflow development, and research collaboration.",
-      "salary": "$89k–$110k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
