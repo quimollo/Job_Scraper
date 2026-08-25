@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 03:37 UTC",
+  "scraped_at": "2026-08-25 04:25 UTC",
   "total": 49,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -89,13 +89,27 @@
     },
     {
       "company": "Dana-Farber Cancer Institute",
-      "title": "Associate Computational Biologist (Polizzi Lab)",
+      "title": "Associate Computational Biologist, Arthanari Lab",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Polizzi-Lab-_JR-6769-1",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux knowledge, Python and R familiarity, experimental design knowledge, analytical skills, and effective written and verbal communication.",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
       "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -113,20 +127,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -424,6 +424,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Texas Biomedical Research Institute",
+      "title": "Staff Scientist III - Genomics",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447522",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447522",
+      "date_posted": "2026-08-25T02:41:08.000Z",
+      "description": "Ph.D. in a life science discipline and 8+ years of genomics or metagenomics experience in study planning, data analysis, interpretation, and scientific or technical reporting.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Takara Bio USA, Inc.",
       "title": "Scientist, Spatial Genomics R&D",
       "location": "San Jose, California, United States",
@@ -432,20 +446,6 @@
       "date_posted": "2026-08-07T17:35:31.000Z",
       "description": "Ph.D. in a related life science field, 2-5 years of postdoctoral or industrial experience, expertise in genomics and spatial transcriptomics, tissue and cell workflows, bioinformatics, and R, Python, or Matlab.",
       "salary": "$150k–$165k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Texas Biomedical Research Institute",
-      "title": "Postdoctoral Scientist – Genomics & Data Science",
-      "location": "San Antonio, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415229",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415229",
-      "date_posted": "2026-08-12T19:49:52.000Z",
-      "description": "Doctoral degree and experience with next-generation sequencing data, including genomic, transcriptomic, or epigenetic data, plus statistical or population genetic analysis; R, Python, or C++ proficiency preferred.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,5 +690,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dana-Farber Cancer Institute",
+      "title": "Associate Computational Biologist, Arthanari Lab",
+      "location": "Boston or Boston",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Texas Biomedical Research Institute",
+      "title": "Staff Scientist III - Genomics",
+      "location": "San Antonio, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447522",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447522",
+      "date_posted": "2026-08-25T02:41:08.000Z",
+      "description": "Ph.D. in a life science discipline and 8+ years of genomics or metagenomics experience in study planning, data analysis, interpretation, and scientific or technical reporting.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
