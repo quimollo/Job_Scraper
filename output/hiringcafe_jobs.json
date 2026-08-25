@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25 20:13 UTC",
+  "scraped_at": "2026-08-25 21:14 UTC",
   "total": 49,
   "new_count": 1,
   "jobs": [
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Syngenta Group",
-      "title": "Senior Scientist I",
-      "location": "Durham, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
-      "direct_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
-      "date_posted": "2026-08-25T14:58:15.047Z",
-      "description": "Ph.D. in plant pathology, nematology, genetics, genomics, or related field; 4+ years of crop resistance research focused on plant-parasitic nematodes; expertise in experiments, assays, phenotyping, and data analysis.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of Alabama in Huntsville",
       "title": "Research Scientist I, Step 1",
       "location": "Alabama, United States",
@@ -561,6 +547,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Clinical Genomic Scientist I - R&D Innovation",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
+      "salary": "$84k–$107k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -692,17 +692,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Syngenta Group",
-      "title": "Senior Scientist I",
-      "location": "Durham, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
-      "direct_url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000145543220-senior-scientist-i",
-      "date_posted": "2026-08-25T14:58:15.047Z",
-      "description": "Ph.D. in plant pathology, nematology, genetics, genomics, or related field; 4+ years of crop resistance research focused on plant-parasitic nematodes; expertise in experiments, assays, phenotyping, and data analysis.",
-      "salary": "",
+      "company": "Children's Hospital of Philadelphia",
+      "title": "Clinical Genomic Scientist I - R&D Innovation",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "direct_url": "https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master's degree in genetics, molecular biology, or related field; 3+ years relevant experience; genomic testing or clinical laboratory experience preferred; advanced analytics, communication, and genomics technology expertise.",
+      "salary": "$84k–$107k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
