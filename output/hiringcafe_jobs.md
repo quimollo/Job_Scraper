@@ -1,17 +1,18 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-08-25 04:25 UTC*
+*Last updated: 2026-08-25 17:20 UTC*
 
 **2 new role(s)** since last run · 49 total in last 30d
 
-### [Associate Computational Biologist, Arthanari Lab](https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992) — Dana-Farber Cancer Institute
+### [Associate Computational Biologist, Arthanari Lab](https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1) — Dana-Farber Cancer Institute
 - 📍 **Location:** Boston or Boston
 - 💰 **Salary:** $60k–$67k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
 - 🕒 **Posted:** 2026-08-17T00:00:00.000Z
 
-### [Staff Scientist III - Genomics](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447522) — Texas Biomedical Research Institute
-- 📍 **Location:** San Antonio, Texas, United States
-- **Work mode:** On-site
+### [Clinical Genomic Scientist I - R&D Innovation](https://chop.wd108.myworkdayjobs.com/chopexternalcareers/job/Philadelphia-Campus--Abramson-Building/Clinical-Genomic-Scientist-I---R-D-Innovation_1026742-1) — Children's Hospital of Philadelphia
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 💰 **Salary:** $84k–$107k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T02:41:08.000Z
+- 🕒 **Posted:** 2026-08-18T00:00:00.000Z
