@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 23:13 UTC",
-  "total": 51,
-  "new_count": 0,
+  "scraped_at": "2026-08-26 00:27 UTC",
+  "total": 50,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -91,11 +91,25 @@
       "company": "Dana-Farber Cancer Institute",
       "title": "Associate Computational Biologist, Arthanari Lab",
       "location": "Boston or Boston",
-      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
-      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6993-1",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
       "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in a STEM field; no prior experience required. Requires UNIX/Linux, Python and R familiarity, experimental design knowledge, analytical skills, and effective communication.",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
       "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lilly",
+      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
+      "location": "Boston or Indianapolis",
+      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
+      "salary": "$166k–$266k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -113,20 +127,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lilly",
-      "title": "Computational Biologist - Quantitative Methods & Target Discovery",
-      "location": "Boston or Indianapolis",
-      "url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "direct_url": "https://lilly.wd115.myworkdayjobs.com/lly/job/US-Boston-MA/Computational-Biologist---Quantitative-Methods---Target-Discovery_R-104314",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Ph.D. in a quantitative life science field with multi-omics or functional genomics experience; Python or R proficiency, scalable pipeline development, AI/ML, and at least 2 years of postdoctoral or biopharma experience preferred.",
-      "salary": "$166k–$266k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -648,20 +648,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Argenta",
-      "title": "Technical Project Manager",
-      "location": "Shawnee, Kansas, United States",
-      "url": "https://teamargenta.bamboohr.com/careers/658",
-      "direct_url": "https://teamargenta.bamboohr.com/careers/658",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in relevant scientific/engineering field,5+ years project/technical experience in pharma/biotech manufacturing with 3+ years managing sterile tech transfers; portfolio, financial, and risk management; aseptic manufacturing knowledge; Microsoft Office and Smartsheet proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Accenture",
       "title": "Life Sciences Consultant — Commercial Strategy",
       "location": "New York City or Milwaukee or Dallas or Columbus or Kirkland or Cincinnati or Cleveland or Oklahoma City or Austin or Albany or Chicago or St. Petersburg or Hartford or Pittsburgh or St. Louis or Miami or Sacramento or Raleigh or Minneapolis or Mountain View or Scottsdale or San Francisco or Morristown or Denver or Boston or Philadelphia or Des Moines or Overland Park or Los Angeles or Charlotte or Walnut Creek or Carmel or Seattle or Houston or Arlington or Atlanta or Redmond or Bentonville or Beaverton or Nashville or Detroit or San Diego",
@@ -718,5 +704,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dana-Farber Cancer Institute",
+      "title": "Associate Computational Biologist, Arthanari Lab",
+      "location": "Boston or Boston",
+      "url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "direct_url": "https://danafarber.wd5.myworkdayjobs.com/dana-farber/job/Boston-Job-Posting-Location/Associate-Computational-Biologist--Arthanari-Lab_JR-6992",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree in a STEM field; no experience required. Requires UNIX/Linux, Python and R familiarity, experimental design, data analysis, communication, organization, and time management skills.",
+      "salary": "$60k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
