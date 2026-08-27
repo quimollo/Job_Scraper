@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-26 21:20 UTC",
+  "scraped_at": "2026-08-27 02:17 UTC",
   "total": 50,
   "new_count": 1,
   "jobs": [
@@ -102,20 +102,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Emmes Group",
-      "title": "Computational Biologist (AI/ML) - Essex Management",
-      "location": "Rockville or United States",
-      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
-      "date_posted": "2026-08-03T21:07:09.000Z",
-      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lilly",
       "title": "Computational Biologist - Quantitative Methods & Target Discovery",
       "location": "Boston or Indianapolis",
@@ -127,6 +113,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Emmes Group",
+      "title": "Computational Biologist (AI/ML) - Essex Management",
+      "location": "Rockville or United States",
+      "url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "direct_url": "https://careers.emmes.com/jobs/3454?lang=en-us",
+      "date_posted": "2026-08-03T21:07:09.000Z",
+      "description": "2+ years experience applying AI/ML to biomedical data; proficiency in Python, SQL, PyTorch, TensorFlow, Git; familiarity with HGVS/VCF and clinical ontologies; strong communication and Microsoft Office skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -564,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "CommonSpirit Health",
-      "title": "Research Scientist I",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://commonspirit.jibeapply.com/jobs/412955",
-      "direct_url": "https://commonspirit.jibeapply.com/jobs/412955",
-      "date_posted": "2026-07-30T18:43:00.000Z",
-      "description": "PhD in genetics or related field, experience with GWAS/population genetics/single-cell genomics and biobank-scale datasets, strong computational and analytic skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Costello Medical",
       "title": "Scientific Project Coordinator",
       "location": "Boston, Massachusetts, United States",
@@ -615,6 +601,20 @@
       "description": "Master's degree in molecular biology, microbiology, biomedical engineering, or related field; 2+ years project management and 4 years biology experience; NIH IMPAC and Microsoft Office proficiency; strong analytical and communication skills.",
       "salary": "$130k–$145k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Michigan State University",
+      "title": "Scientific Program Manager / Research Coordinator/S",
+      "location": "East Lansing, Michigan, United States",
+      "url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
+      "direct_url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
+      "date_posted": "2026-08-26T17:00:00.000Z",
+      "description": "Requires post-bachelor study or equivalent in plant biology or a related field, plus 1–3 years of progressively responsible research-related experience. Program management, grant, university, and partnership experience preferred.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -706,15 +706,15 @@
   ],
   "new_jobs": [
     {
-      "company": "Cellarity",
-      "title": "Scientist II / Senior Scientist, Computational Biology",
-      "location": "Somerville or Cambridge",
-      "url": "https://job-boards.greenhouse.io/cellarity/jobs/8742221002",
-      "direct_url": "https://job-boards.greenhouse.io/cellarity/jobs/8742221002",
-      "date_posted": "2026-08-26T15:20:40.000Z",
-      "description": "Ph.D. or equivalent in biology, computational biology, or related science; 2+ years post-Ph.D. experience; extensive single-cell transcriptomics experience; programming skills, preferably Python; strong analytical and communication skills.",
-      "salary": "$130k–$180k/yr",
-      "job_type": "Full Time",
+      "company": "Michigan State University",
+      "title": "Scientific Program Manager / Research Coordinator/S",
+      "location": "East Lansing, Michigan, United States",
+      "url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
+      "direct_url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
+      "date_posted": "2026-08-26T17:00:00.000Z",
+      "description": "Requires post-bachelor study or equivalent in plant biology or a related field, plus 1–3 years of progressively responsible research-related experience. Program management, grant, university, and partnership experience preferred.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
