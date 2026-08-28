@@ -1,18 +1,17 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-08-28 01:11 UTC*
+*Last updated: 2026-08-28 13:25 UTC*
 
-**2 new role(s)** since last run · 52 total in last 30d
+**2 new role(s)** since last run · 51 total in last 30d
 
-### [Computational Scientist (Contract Position)](https://uscareers-rtiinc.icims.com/jobs/13574/computational-scientist-%28contract-position%29/job?hub=8&in_iframe=1) — RTI International
-- 📍 **Location:** Rockville or California or Massachusetts or United States
-- 💰 **Salary:** $132k–$163k/yr
+### [Research Associate: Computational Biologist (Internal Employment Opportunity)](https://oregonstate.wd501.myworkdayjobs.com/osu_careers_site/job/Corvallis-Main-Campus/Research-Associate--Computational-Biologist--Internal-Employment-Opportunity-_JR0000710) — Oregon State University
+- 📍 **Location:** Corvallis, Oregon, United States
 - **Work mode:** On-site
-- **Job type:** Contract
-- 🕒 **Posted:** 2026-08-27T04:00:00.000Z
-
-### [Senior Scientist - Assay Development](https://gh.wd1.myworkdayjobs.com/gh/job/Palo-Alto-CA/Senior-Scientist---Assay-Development_R-101169) — Guardant Health
-- 📍 **Location:** Palo Alto, California, United States
-- 💰 **Salary:** $138k–$190k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
+- **Job type:** Full Time, Temporary
 - 🕒 **Posted:** 2026-08-27T00:00:00.000Z
+
+### [Senior Staff Engineer/Scientist, Bioinformatics ](https://job-boards.greenhouse.io/sdstealthco/jobs/4337428009) — San Diego Stealth Startup
+- 📍 **Location:** San Diego, California, United States
+- 💰 **Salary:** $202k–$215k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-31T16:16:46.000Z
