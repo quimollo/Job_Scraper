@@ -1,25 +1,18 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-08-27 13:09 UTC*
+*Last updated: 2026-08-28 01:11 UTC*
 
-**3 new role(s)** since last run · 52 total in last 30d
+**2 new role(s)** since last run · 52 total in last 30d
 
-### [Associate Principal Bioinformatics Scientist](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Associate-Principal-Bioinformatics-Scientist_35000071-1) — Abbott
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $114k–$228k/yr
+### [Computational Scientist (Contract Position)](https://uscareers-rtiinc.icims.com/jobs/13574/computational-scientist-%28contract-position%29/job?hub=8&in_iframe=1) — RTI International
+- 📍 **Location:** Rockville or California or Massachusetts or United States
+- 💰 **Salary:** $132k–$163k/yr
 - **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-26T00:00:00.000Z
+- **Job type:** Contract
+- 🕒 **Posted:** 2026-08-27T04:00:00.000Z
 
-### [Associate Principal Bioinformatics Scientist](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---San-Diego/Associate-Principal-Bioinformatics-Scientist_35000071) — Abbott
-- 📍 **Location:** San Diego or La Jolla
-- 💰 **Salary:** $114k–$228k/yr
-- **Work mode:** On-site
+### [Senior Scientist - Assay Development](https://gh.wd1.myworkdayjobs.com/gh/job/Palo-Alto-CA/Senior-Scientist---Assay-Development_R-101169) — Guardant Health
+- 📍 **Location:** Palo Alto, California, United States
+- 💰 **Salary:** $138k–$190k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-26T00:00:00.000Z
-
-### [Research Scientist I](https://www.commonspirit.careers/job/phoenix/research-scientist-i/35300/83610428880) — CommonSpirit Health
-- 📍 **Location:** Phoenix, Arizona, United States
-- 💰 **Salary:** $90k–$133k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-30T12:00:00.000Z
+- 🕒 **Posted:** 2026-08-27T00:00:00.000Z
