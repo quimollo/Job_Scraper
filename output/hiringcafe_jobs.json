@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 13:25 UTC",
+  "scraped_at": "2026-08-29 00:45 UTC",
   "total": 51,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -718,34 +718,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Oregon State University",
-      "title": "Research Associate: Computational Biologist (Internal Employment Opportunity)",
-      "location": "Corvallis, Oregon, United States",
-      "url": "https://oregonstate.wd501.myworkdayjobs.com/osu_careers_site/job/Corvallis-Main-Campus/Research-Associate--Computational-Biologist--Internal-Employment-Opportunity-_JR0000710",
-      "direct_url": "https://oregonstate.wd501.myworkdayjobs.com/osu_careers_site/job/Corvallis-Main-Campus/Research-Associate--Computational-Biologist--Internal-Employment-Opportunity-_JR0000710",
-      "date_posted": "2026-08-27T00:00:00.000Z",
-      "description": "PhD in genetics, genomics, computer science, or related field; 3 years of postdoctoral computational genome-analysis experience with plant and bacterial pathogens; Phytophthora genomics and HPC cluster expertise required.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "San Diego Stealth Startup",
-      "title": "Senior Staff Engineer/Scientist, Bioinformatics ",
-      "location": "San Diego, California, United States",
-      "url": "https://job-boards.greenhouse.io/sdstealthco/jobs/4337428009",
-      "direct_url": "https://job-boards.greenhouse.io/sdstealthco/jobs/4337428009",
-      "date_posted": "2026-07-31T16:16:46.000Z",
-      "description": "Ph.D. in a relevant computational field and 6+ years of bioinformatics experience. Requires statistical, machine learning, deep learning, programming, and reproducible workflow development expertise in cloud or HPC environments.",
-      "salary": "$202k–$215k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
