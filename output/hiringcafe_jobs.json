@@ -139,8 +139,8 @@
       "description": "Extensive computational biology research experience, strong scientific communication, ability to analyze biological data, proficiency in Python, and ability to work on-site in New York City or San Francisco.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {

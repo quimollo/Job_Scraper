@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-23 15:52 UTC",
-  "total": 10,
+  "scraped_at": "2026-08-30 18:48 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "Defense Health Agency",
+      "title": "TOXICOLOGIST (FORENSIC)",
+      "location": "Dover AFB, Delaware",
+      "url": "https://www.usajobs.gov/job/882264900",
+      "date_posted": "2026-08-29",
+      "salary": "Starting at $138,595 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Air Force Materiel Command",
       "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
@@ -10,6 +19,24 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $76,463 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Protection Specialist",
+      "location": "Warren, Michigan",
+      "url": "https://www.usajobs.gov/job/882102500",
+      "date_posted": "2026-08-26",
+      "salary": "Starting at $117,402 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Highway Administration",
+      "title": "Supervisory Environmental Protection Specialist - DIRECT HIRE",
+      "location": "Lakewood, Colorado",
+      "url": "https://www.usajobs.gov/job/881730100",
+      "date_posted": "2026-08-24",
+      "salary": "Starting at $118,675 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -40,48 +67,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "John C. Stennis Space Center",
-      "title": "Public Notice - Environmental Protection (Direct Hire)",
-      "location": "Stennis Space Center, Mississippi",
-      "url": "https://www.usajobs.gov/job/881127000",
-      "date_posted": "2026-08-20",
-      "salary": "Starting at $74,678 Per year (GS 11-14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "Boston, Massachusetts",
-      "url": "https://www.usajobs.gov/job/880971300",
-      "date_posted": "2026-08-18",
-      "salary": "Starting at $69,905 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Engraving and Printing",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/880524700",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $115,711 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Energy Headquarters",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880077600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/879114700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $67,100 Per year (GS 9)",
+      "company": "National Oceanic and Atmospheric Administration",
+      "title": "Environmental Scientist",
+      "location": "Silver Spring, Maryland",
+      "url": "https://www.usajobs.gov/job/881831800",
+      "date_posted": "2026-08-25",
+      "salary": "Starting at $74,678 Per year (ZP 3)",
       "ats": "USAJOBS"
     },
     {
