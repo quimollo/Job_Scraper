@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01 05:46 UTC",
+  "scraped_at": "2026-09-01 19:39 UTC",
   "total": 46,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -648,76 +648,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of Michigan",
-      "title": "Bioinformatician-Computational Biologist",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://careers.umich.edu/job_detail/apply/282492",
-      "direct_url": "https://careers.umich.edu/job_detail/apply/282492",
-      "date_posted": "2026-08-31T00:00:00.000Z",
-      "description": "Ph.D. in Bioinformatics or related field, 3 years of postdoctoral experience in computational proteomics and software development, Java programming, and at least 3 peer-reviewed publications.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Biohub",
-      "title": "Computational Biologist, Synthetic Spatial Omics",
-      "location": "New York City, New York, United States",
-      "url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
-      "direct_url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
-      "date_posted": "2026-08-11T20:32:00.000Z",
-      "description": "PhD in computational biology, computer science, biomedical engineering, or related field; 2+ years developing AI/ML frameworks; Python or R; research publications; cell biology and genomics expertise.",
-      "salary": "$153k–$191k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Quest Diagnostics",
-      "title": "Bioinformatics Scientist",
-      "location": "Baltimore or Secaucus or Marlborough or Lewisville",
-      "url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
-      "direct_url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
-      "date_posted": "2026-08-31T22:12:48.000Z",
-      "description": "Requires 5+ years analyzing NGS data, Ph.D. or M.S. with extensive industry experience, pipeline workflow expertise, Python or R programming, cloud environments, and regulated diagnostics experience.",
-      "salary": "$80k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vylor",
-      "title": "Research Scientist",
-      "location": "Johnston or Des Moines",
-      "url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
-      "direct_url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
-      "date_posted": "2026-08-31T00:00:00.000Z",
-      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vylor",
-      "title": "Research Scientist",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://vylor.eightfold.ai/careers/job/1443153254507",
-      "direct_url": "https://vylor.eightfold.ai/careers/job/1443153254507",
-      "date_posted": "2026-08-31T00:00:00.000Z",
-      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R; 2+ years industry experience desired.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
