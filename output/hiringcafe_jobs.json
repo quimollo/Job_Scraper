@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-01 00:49 UTC",
-  "total": 51,
-  "new_count": 0,
+  "scraped_at": "2026-09-01 05:46 UTC",
+  "total": 46,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -46,17 +46,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cherokee Federal",
-      "title": "Computational Biologist Genomics",
-      "location": "Frederick, Maryland, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43194",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/43194",
-      "date_posted": "2026-07-30T17:21:59.000Z",
-      "description": "Bachelor's in a relevant scientific field, 1+ year bioinformatics/computational biology experience, experience with Oxford Nanopore and Illumina, Linux, Bash, HPC, R or Python; Secret clearance (or eligible) and US citizenship required.",
-      "salary": "$75k/yr",
+      "company": "University of Michigan",
+      "title": "Bioinformatician-Computational Biologist",
+      "location": "Ann Arbor, Michigan, United States",
+      "url": "https://careers.umich.edu/job_detail/apply/282492",
+      "direct_url": "https://careers.umich.edu/job_detail/apply/282492",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in Bioinformatics or related field, 3 years of postdoctoral experience in computational proteomics and software development, Java programming, and at least 3 peer-reviewed publications.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Biohub",
+      "title": "Computational Biologist, Synthetic Spatial Omics",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
+      "direct_url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
+      "date_posted": "2026-08-11T20:32:00.000Z",
+      "description": "PhD in computational biology, computer science, biomedical engineering, or related field; 2+ years developing AI/ML frameworks; Python or R; research publications; cell biology and genomics expertise.",
+      "salary": "$153k–$191k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -127,20 +141,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Valthos Inc.",
-      "title": "Member of Technical Staff - Applied Computational Biologist",
-      "location": "New York City or San Francisco",
-      "url": "https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555",
-      "direct_url": "https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555",
-      "date_posted": "2026-07-29T18:52:30.107Z",
-      "description": "Extensive computational biology research experience, strong scientific communication, ability to analyze biological data, proficiency in Python, and ability to work on-site in New York City or San Francisco.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -228,6 +228,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Quest Diagnostics",
+      "title": "Bioinformatics Scientist",
+      "location": "Baltimore or Secaucus or Marlborough or Lewisville",
+      "url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
+      "direct_url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
+      "date_posted": "2026-08-31T22:12:48.000Z",
+      "description": "Requires 5+ years analyzing NGS data, Ph.D. or M.S. with extensive industry experience, pipeline workflow expertise, Python or R programming, cloud environments, and regulated diagnostics experience.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Abbott",
       "title": "Associate Principal Bioinformatics Scientist",
       "location": "San Diego, California, United States",
@@ -253,20 +267,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Battelle",
-      "title": "Biologist/ Bioinformatics Scientist (76412)",
-      "location": "Fort Belvoir, Virginia, United States",
-      "url": "https://career8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76412",
-      "direct_url": "https://career8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76412",
-      "date_posted": "2026-07-29T13:32:38.000Z",
-      "description": "Master's or PhD in bioinformatics, epidemiology, or microbiology; 1–3 years relevant experience; SME in bioinformatics/epidemiology/microbiology for CBRNE contexts; strong communication; Microsoft Office proficiency; ability to obtain Top Secret/SCI.",
-      "salary": "$90k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -326,14 +326,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Carislifesciences",
-      "title": "Scientist - Bioinformatics",
-      "location": "Tempe, Arizona, United States",
-      "url": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Tempe-AZ---85281/Scientist---Bioinformatics_JR105337",
-      "direct_url": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Tempe-AZ---85281/Scientist---Bioinformatics_JR105337",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "PhD in related field, 2+ years bioinformatics/NGS pipeline experience, proficiency with genomic file formats and programming (Python,bash,SQL,GIT), AWS and workflow languages preferred.",
-      "salary": "",
+      "company": "St. Jude Children's Research Hospital",
+      "title": "Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain Tumor Program (NBTP)",
+      "location": "Memphis, Tennessee, United States",
+      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist---Bioinformatics-Research-Scientist-Neurobiology-and-Brain-Tumor-Program--NBTP-_JR7561-2",
+      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist---Bioinformatics-Research-Scientist-Neurobiology-and-Brain-Tumor-Program--NBTP-_JR7561-2",
+      "date_posted": "2026-08-25T00:00:00.000Z",
+      "description": "Requires a bachelor's degree with 6+ years, master's with 4–6+ years, or PhD with 0–2+ years in bioinformatics or related fields; expertise in genomics, NGS, statistical analysis, programming, pipelines, and data integration.",
+      "salary": "$104k–$186k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -347,20 +347,6 @@
       "direct_url": "https://talent.stjude.org/careers/JobDetail/Senior-Bioinformatics-Research-Scientist-Bioinformatics-Research-Scientist-Neurobiology-and-Brain-Tumor-Program-NBTP-JR7561/5249",
       "date_posted": "2026-08-19T00:00:00.000Z",
       "description": "Bachelor's degree plus 6+ years, master's plus 4–6+ years, or PhD plus 0–2+ years in bioinformatics or related fields; programming, statistical analysis, genomics, and NGS experience required.",
-      "salary": "$104k–$186k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "St. Jude Children's Research Hospital",
-      "title": "Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain Tumor Program (NBTP)",
-      "location": "Memphis, Tennessee, United States",
-      "url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist---Bioinformatics-Research-Scientist-Neurobiology-and-Brain-Tumor-Program--NBTP-_JR7561-2",
-      "direct_url": "https://stjude.wd1.myworkdayjobs.com/stjude/job/Memphis-TN/Senior-Bioinformatics-Research-Scientist---Bioinformatics-Research-Scientist-Neurobiology-and-Brain-Tumor-Program--NBTP-_JR7561-2",
-      "date_posted": "2026-08-25T00:00:00.000Z",
-      "description": "Requires a bachelor's degree with 6+ years, master's with 4–6+ years, or PhD with 0–2+ years in bioinformatics or related fields; expertise in genomics, NGS, statistical analysis, programming, pipelines, and data integration.",
       "salary": "$104k–$186k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -382,29 +368,29 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Stealth Startup",
-      "title": "Senior Staff Engineer/Scientist, Bioinformatics ",
-      "location": "San Diego, California, United States",
-      "url": "https://job-boards.greenhouse.io/sdstealthco/jobs/4337428009",
-      "direct_url": "https://job-boards.greenhouse.io/sdstealthco/jobs/4337428009",
-      "date_posted": "2026-07-31T16:16:46.000Z",
-      "description": "Ph.D. in a relevant computational field and 6+ years of bioinformatics experience. Requires statistical, machine learning, deep learning, programming, and reproducible workflow development expertise in cloud or HPC environments.",
-      "salary": "$202k–$215k/yr",
+      "company": "Vylor",
+      "title": "Research Scientist",
+      "location": "Johnston or Des Moines",
+      "url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
+      "direct_url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "Clemson",
-      "title": "Senior Scientist–Lead Scientist for AI-Enabled Bioinformatics and Computational Biology",
-      "location": "Clemson, South Carolina, United States",
-      "url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
-      "direct_url": "https://clemson.wd12.myworkdayjobs.com/clemson_careers/job/-/Senior-Scientist-Lead-Scientist-for-AI-Enabled-Bioinformatics-and-Computational-Biology_JR-10510",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Ph.D. and relevant program experience required, with comprehensive computational biology knowledge and ability to lead complex research, supervise others, manage funds, and develop AI-enabled bioinformatics models and pipelines.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time, Temporary",
+      "company": "Vylor",
+      "title": "Research Scientist",
+      "location": "Des Moines, Iowa, United States",
+      "url": "https://vylor.eightfold.ai/careers/job/1443153254507",
+      "direct_url": "https://vylor.eightfold.ai/careers/job/1443153254507",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R; 2+ years industry experience desired.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -421,20 +407,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Axle",
-      "title": "Staff Scientist - Genomics",
-      "location": "Hamilton, Montana, United States",
-      "url": "https://job-boards.greenhouse.io/axle/jobs/5197429007",
-      "direct_url": "https://job-boards.greenhouse.io/axle/jobs/5197429007",
-      "date_posted": "2026-07-30T15:38:27.000Z",
-      "description": "Ph.D. in genomics or related field, hands-on Illumina NGS experience, RNA‑seq and single‑cell workflows, laboratory/core facility experience, strong documentation and communication skills.",
-      "salary": "$100k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -592,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "CommonSpirit Health",
-      "title": "Research Scientist I",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://www.commonspirit.careers/job/phoenix/research-scientist-i/35300/83610428880",
-      "direct_url": "https://www.commonspirit.careers/job/phoenix/research-scientist-i/35300/83610428880",
-      "date_posted": "2026-07-30T12:00:00.000Z",
-      "description": "Ph.D. in genetics, bioinformatics, computational biology, statistical genetics, or related field; experience with GWAS, population genetics, or single-cell genomics and large cohort datasets.",
-      "salary": "$90k–$133k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Costello Medical",
       "title": "Scientific Project Coordinator",
       "location": "Boston, Massachusetts, United States",
@@ -614,20 +572,6 @@
       "date_posted": "2026-08-03T17:34:36.812Z",
       "description": "Degree in a scientific discipline (min GPA 3.3) required; excellent written and verbal English; strong attention to detail, organization, communication; good knowledge of Microsoft Office; no prior industry experience required.",
       "salary": "$60k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Guidehouse",
-      "title": "Scientific Program Manager",
-      "location": "Rockville, Maryland, United States",
-      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Rockville/Scientific-Program-Manager_42576",
-      "direct_url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Rockville/Scientific-Program-Manager_42576",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Master's in a related scientific field, 5+ years neuroscience research/program management, knowledge of NIH grants, ability to evaluate proposals, conduct program analyses, and prepare scientific reports.",
-      "salary": "$76k–$114k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -643,20 +587,6 @@
       "description": "Master's degree in molecular biology, microbiology, biomedical engineering, or related field; 2+ years project management and 4 years biology experience; NIH IMPAC and Microsoft Office proficiency; strong analytical and communication skills.",
       "salary": "$130k–$145k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Michigan State University",
-      "title": "Scientific Program Manager / Research Coordinator/S",
-      "location": "East Lansing, Michigan, United States",
-      "url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
-      "direct_url": "https://careers.pageuppeople.com/782/cw/en/job/525419",
-      "date_posted": "2026-08-26T17:00:00.000Z",
-      "description": "Requires post-bachelor study or equivalent in plant biology or a related field, plus 1–3 years of progressively responsible research-related experience. Program management, grant, university, and partnership experience preferred.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -718,5 +648,76 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University of Michigan",
+      "title": "Bioinformatician-Computational Biologist",
+      "location": "Ann Arbor, Michigan, United States",
+      "url": "https://careers.umich.edu/job_detail/apply/282492",
+      "direct_url": "https://careers.umich.edu/job_detail/apply/282492",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in Bioinformatics or related field, 3 years of postdoctoral experience in computational proteomics and software development, Java programming, and at least 3 peer-reviewed publications.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Biohub",
+      "title": "Computational Biologist, Synthetic Spatial Omics",
+      "location": "New York City, New York, United States",
+      "url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
+      "direct_url": "https://job-boards.greenhouse.io/biohub/jobs/8112693",
+      "date_posted": "2026-08-11T20:32:00.000Z",
+      "description": "PhD in computational biology, computer science, biomedical engineering, or related field; 2+ years developing AI/ML frameworks; Python or R; research publications; cell biology and genomics expertise.",
+      "salary": "$153k–$191k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Quest Diagnostics",
+      "title": "Bioinformatics Scientist",
+      "location": "Baltimore or Secaucus or Marlborough or Lewisville",
+      "url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
+      "direct_url": "https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/68385",
+      "date_posted": "2026-08-31T22:12:48.000Z",
+      "description": "Requires 5+ years analyzing NGS data, Ph.D. or M.S. with extensive industry experience, pipeline workflow expertise, Python or R programming, cloud environments, and regulated diagnostics experience.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vylor",
+      "title": "Research Scientist",
+      "location": "Johnston or Des Moines",
+      "url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
+      "direct_url": "https://vylor.wd115.myworkdayjobs.com/vylor/job/Des-Moines-Iowa-United-States/Research-Scientist_348318W",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vylor",
+      "title": "Research Scientist",
+      "location": "Des Moines, Iowa, United States",
+      "url": "https://vylor.eightfold.ai/careers/job/1443153254507",
+      "direct_url": "https://vylor.eightfold.ai/careers/job/1443153254507",
+      "date_posted": "2026-08-31T00:00:00.000Z",
+      "description": "Ph.D. in bioinformatics, computational biology, plant biology, or related genomics field; expertise in gene regulation, network biology, single-cell data, Linux/Unix, computing clusters, and R; 2+ years industry experience desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
