@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-09-02 00:36 UTC*
+*Last updated: 2026-09-02 05:09 UTC*
 
 **0 new role(s)** since last run · 46 total in last 30d
 
