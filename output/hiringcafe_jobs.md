@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-09-02 05:09 UTC*
+*Last updated: 2026-09-02 19:32 UTC*
 
-**0 new role(s)** since last run · 46 total in last 30d
+**1 new role(s)** since last run · 15 total in last 30d
 
-No new roles since the last run.
+### [Computational Biologist](https://jobs.tufts.edu/jobs/23608?lang=en-us) — Tufts University
+- 📍 **Location:** Medford, Massachusetts, United States
+- 💰 **Salary:** $74k–$111k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-09-02T16:30:38.000Z
