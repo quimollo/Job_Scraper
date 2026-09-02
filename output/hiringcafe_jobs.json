@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 19:32 UTC",
+  "scraped_at": "2026-09-02 22:02 UTC",
   "total": 15,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Arcadia Science",
@@ -214,20 +214,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Tufts University",
-      "title": "Computational Biologist",
-      "location": "Medford, Massachusetts, United States",
-      "url": "https://jobs.tufts.edu/jobs/23608?lang=en-us",
-      "direct_url": "https://jobs.tufts.edu/jobs/23608?lang=en-us",
-      "date_posted": "2026-09-02T16:30:38.000Z",
-      "description": "Master's degree in a related computational biology field, five years' experience with a master's or one year with a PhD, single-cell RNA-seq analysis, advanced R/Python, statistics, experimental design, visualization, and publications.",
-      "salary": "$74k–$111k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
