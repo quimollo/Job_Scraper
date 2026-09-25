@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Denmark Life Sciences / Computational Biology Roles
-*Last updated: 2026-09-24 22:31 UTC*
+*Last updated: 2026-09-25 01:36 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
